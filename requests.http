@@ -1,0 +1,94 @@
+
+
+POST http://localhost:8080/wsec1e1/days.wsdl
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:gs="http://spring.io/guides/gs-producing-web-service">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getDaysRequest>
+         <gs:name>Lunes</gs:name>
+      </gs:getDaysRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+###
+
+POST http://localhost:8080/wsec1e1/days.wsdl
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:gs="http://spring.io/guides/gs-producing-web-service">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getDaysRequest>
+         <gs:name>Martes</gs:name>
+      </gs:getDaysRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+###
+
+POST http://localhost:8080/wsec1e1/days.wsdl
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:gs="http://spring.io/guides/gs-producing-web-service">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getDaysRequest>
+         <gs:name>Miercoles</gs:name>
+      </gs:getDaysRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+###
+
+POST http://localhost:8080/wsec1e1/days.wsdl
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:gs="http://spring.io/guides/gs-producing-web-service">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getDaysRequest>
+         <gs:name>Jueves</gs:name>
+      </gs:getDaysRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+###
+
+POST http://localhost:8080/wsec1e1/days.wsdl
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:gs="http://spring.io/guides/gs-producing-web-service">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getDaysRequest>
+         <gs:name>Viernes</gs:name>
+      </gs:getDaysRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+###
+
+POST http://localhost:8080/wsec1e1/days.wsdl
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:gs="http://spring.io/guides/gs-producing-web-service">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getDaysRequest>
+         <gs:name>Sabado</gs:name>
+      </gs:getDaysRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+###
+
+POST http://localhost:8080/wsec1e1/days.wsdl
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:gs="http://spring.io/guides/gs-producing-web-service">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getDaysRequest>
+         <gs:name>Domingo</gs:name>
+      </gs:getDaysRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+
+
